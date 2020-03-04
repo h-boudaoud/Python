@@ -1,6 +1,7 @@
 # Mes projets en Pyton
 
 # Le nombre mystère
+### Code source : 
 max =100
 min = 1
 import random
