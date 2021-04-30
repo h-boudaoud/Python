@@ -1,4 +1,4 @@
-Mes projets en Pyton
+Mes projets en Python
 Le nombre mystère
 Code source :
   max =100
