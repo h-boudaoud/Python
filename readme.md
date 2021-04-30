@@ -1,7 +1,9 @@
 Mes projets en Python
 
 Le nombre mystère
+
 Code source :
+```
   max =100
   min = 1
   import random
@@ -30,4 +32,6 @@ Code source :
       print(message)    
       nouvellePrtie =input('Deviner un autre nombre? (oui/non)')
   print('A bientôt')
+  
+```
   ###########################################
